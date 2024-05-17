@@ -1,0 +1,2 @@
+# Power-Bi-Food-And-Beverages-Adverse-Event-Report-Analysis
+This repository features Power BI dashboards that analyze adverse event reports related to the Food and Beverages Industry. The dashboards synthesize data to highlight trends in product-related health events, providing insights into the frequency of events by product role, industry, gender and age, along with a predictive model for future incidents
