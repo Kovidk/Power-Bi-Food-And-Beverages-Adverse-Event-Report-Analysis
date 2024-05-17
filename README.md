@@ -2,7 +2,7 @@
 This repository features Power BI dashboards that analyze adverse event reports related to the Food and Beverages Industry. The dashboards synthesize data to highlight trends in product-related health events, providing insights into the frequency of events by product role, industry, gender and age, along with a predictive model for future incidents
 
 # Adverse-Event-Reporting-in-the-Food-and-Cosmetics-Industry
-https://github.com/Kovidk/Power-Bi-Food-And-Beverages-Adverse-Event-Report-Analysis/blob/main/Media/Front%201.png?raw=true
+![Front 1](https://github.com/Kovidk/Power-Bi-Food-And-Beverages-Adverse-Event-Report-Analysis/assets/20815224/8d6e2453-feed-43f3-9867-b8863907e29e)
 
 # Overview
 
@@ -53,11 +53,11 @@ Public Health Decisions: Supports public health officials in making data-informe
 
 This dashboard transforms the extensive CAERS dataset into actionable insights, offering an invaluable tool for regulatory bodies, manufacturers, and public health professionals. The visualizations and analyses contribute to enhancing product safety, monitoring industry performance, and ultimately protecting consumer health.
 
-https://github.com/Kovidk/Power-Bi-Food-And-Beverages-Adverse-Event-Report-Analysis/blob/main/Media/Dashboard%20-%201.png?raw=true
-https://github.com/Kovidk/Power-Bi-Food-And-Beverages-Adverse-Event-Report-Analysis/blob/main/Media/Dashboard%20-%202.png?raw=true
-https://github.com/Kovidk/Power-Bi-Food-And-Beverages-Adverse-Event-Report-Analysis/blob/main/Media/Dashboard%20-%203.png?raw=true
-https://github.com/Kovidk/Power-Bi-Food-And-Beverages-Adverse-Event-Report-Analysis/blob/main/Media/Dashboard%20-%204.png?raw=true
-Media/Demo.gif
+![Dashboard - 1](https://github.com/Kovidk/Power-Bi-Food-And-Beverages-Adverse-Event-Report-Analysis/assets/20815224/22a6ef4d-944e-498b-b78c-9c86709d10ae)
+![Dashboard - 2](https://github.com/Kovidk/Power-Bi-Food-And-Beverages-Adverse-Event-Report-Analysis/assets/20815224/cc2592c0-b0e5-4c67-8f1d-cbc6b39c345a)
+![Dashboard - 3](https://github.com/Kovidk/Power-Bi-Food-And-Beverages-Adverse-Event-Report-Analysis/assets/20815224/7fa165bc-fe94-4d2e-ba79-1771bf29c70d)
+![Dashboard - 4](https://github.com/Kovidk/Power-Bi-Food-And-Beverages-Adverse-Event-Report-Analysis/assets/20815224/ae419850-4c1c-46c7-9151-6886f1f8ba87)
+![Demo](https://github.com/Kovidk/Power-Bi-Food-And-Beverages-Adverse-Event-Report-Analysis/assets/20815224/9ada1a43-5df6-4fa3-a865-49cf3fdf78f0)
 
 
 
